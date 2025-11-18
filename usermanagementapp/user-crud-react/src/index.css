@@ -1,0 +1,8 @@
+/* DARK MODE BASE COLORS */
+body {
+  @apply bg-gray-900 text-gray-100;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
